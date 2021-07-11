@@ -1452,8 +1452,8 @@ section,
   @media (min-width: 1024px) {
     section,
     .slide {
-      padding-bottom: 12rem;
-      padding-top: 12rem; } }
+      padding-bottom: 0rem;
+      padding-top: 0rem; } }
 
 /*slide with no padding (full card, .embed youtube video...) */
 .fullscreen {
